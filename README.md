@@ -9,8 +9,8 @@
 <style>
 p{font-size: 18px;}
 </style>
-</header>
-<body style="background-image: url(sun.jpg);">
+</header>s
+<body style="background-color:pink;">
 	<h1 align="center"style="color: black;"><u> CUSTOMER REGISTRATION FORM</u></h1>
 <marquee><p align="center" style="background-image: url(wall.jpg);"> Dear customer,this form will help customers to register with us and geting random messages and updating with our system.<br>THANK YOU !!!!! </P></marquee>
 <form>
